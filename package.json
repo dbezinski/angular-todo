@@ -1,0 +1,19 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "new todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbezinski/angular-todo.git"
+  },
+  "author": "dbezinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbezinski/angular-todo/issues"
+  },
+  "homepage": "https://github.com/dbezinski/angular-todo#readme"
+}
